@@ -1,0 +1,19 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  background: url(Assets/stripes.png) repeat-x, url(Assets/background.jpg) no-repeat #525a6a;
+  background-size: auto, cover;
+  color: #fff;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+}
+section {
+  margin:300px 0 0 200px;
+}
+hr {
+  border-color: #fd6e6e;
+  margin:15px 0 15px 0;
+  width: 25px;
+}
+p { margin: 0 0 15px 0; }
